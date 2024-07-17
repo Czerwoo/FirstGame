@@ -30,10 +30,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.0.157",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"Pierwsza testowa gra",
   "resources":[
+    {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},},
     {"id":{"name":"player","path":"objects/player/player.yy",},},
     {"id":{"name":"landing_room","path":"rooms/landing_room/landing_room.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},

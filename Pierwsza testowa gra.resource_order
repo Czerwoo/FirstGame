@@ -17,7 +17,7 @@
     {"name":"Zestawy kafelków","order":2,"path":"folders/Zestawy kafelków.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"player","order":16,"path":"objects/player/player.yy",},
+    {"name":"player","order":1,"path":"objects/player/player.yy",},
     {"name":"landing_room","order":1,"path":"rooms/landing_room/landing_room.yy",},
     {"name":"Room2","order":18,"path":"rooms/Room2/Room2.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},

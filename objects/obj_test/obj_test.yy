@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":39,"eventType":5,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":5,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_test",
+  "eventList":[],
   "managed":true,
-  "name":"player",
+  "name":"obj_test",
   "overriddenProperties":[],
   "parent":{
     "name":"Obiekty",
