@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Czcionki","order":7,"path":"folders/Czcionki.yy",},
+    {"name":"Dziecko","order":4,"path":"folders/Dziecko.yy",},
+    {"name":"Dźwięki","order":3,"path":"folders/Dźwięki.yy",},
+    {"name":"Krzywe animacji","order":12,"path":"folders/Krzywe animacji.yy",},
+    {"name":"Notatki","order":13,"path":"folders/Notatki.yy",},
+    {"name":"Obiekty","order":9,"path":"folders/Obiekty.yy",},
+    {"name":"Osie czasu","order":8,"path":"folders/Osie czasu.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Plansze","order":10,"path":"folders/Plansze.yy",},
+    {"name":"Rozszerzenia","order":14,"path":"folders/Rozszerzenia.yy",},
+    {"name":"Sekwencje","order":11,"path":"folders/Sekwencje.yy",},
+    {"name":"Shadery","order":6,"path":"folders/Shadery.yy",},
+    {"name":"Skrypty","order":5,"path":"folders/Skrypty.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Zestawy kafelków","order":2,"path":"folders/Zestawy kafelków.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"player","order":16,"path":"objects/player/player.yy",},
+    {"name":"landing_room","order":1,"path":"rooms/landing_room/landing_room.yy",},
+    {"name":"Room2","order":18,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+  ],
+}
