@@ -13,13 +13,13 @@
     {"$GMFolder":"","%Name":"Czcionki","folderPath":"folders/Czcionki.yy","name":"Czcionki","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Dziecko","folderPath":"folders/Dziecko.yy","name":"Dziecko","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Dźwięki","folderPath":"folders/Dźwięki.yy","name":"Dźwięki","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Resztki","folderPath":"folders/Resztki.yy","name":"Resztki","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Krzywe animacji","folderPath":"folders/Krzywe animacji.yy","name":"Krzywe animacji","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notatki","folderPath":"folders/Notatki.yy","name":"Notatki","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Obiekty","folderPath":"folders/Obiekty.yy","name":"Obiekty","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Osie czasu","folderPath":"folders/Osie czasu.yy","name":"Osie czasu","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Plansze","folderPath":"folders/Plansze.yy","name":"Plansze","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Resztki","folderPath":"folders/Resztki.yy","name":"Resztki","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rozszerzenia","folderPath":"folders/Rozszerzenia.yy","name":"Rozszerzenia","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sekwencje","folderPath":"folders/Sekwencje.yy","name":"Sekwencje","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Shadery","folderPath":"folders/Shadery.yy","name":"Shadery","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -31,7 +31,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"Pierwsza testowa gra",
   "resources":[

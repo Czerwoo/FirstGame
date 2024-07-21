@@ -1,2 +1,2 @@
 
-room_goto(rm_lobby)
+room_goto(rm_lobby);
