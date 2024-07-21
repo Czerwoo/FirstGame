@@ -13,8 +13,8 @@
   ],
   "name":"landing_room",
   "parent":{
-    "name":"Plansze",
-    "path":"folders/Plansze.yy",
+    "name":"Resztki",
+    "path":"folders/Resztki.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

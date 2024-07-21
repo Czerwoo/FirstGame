@@ -49,8 +49,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Resztki",
+    "path":"folders/Resztki.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

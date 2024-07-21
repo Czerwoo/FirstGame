@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_test",
+  "%Name":"obj_lobby_hat",
   "eventList":[],
   "managed":true,
-  "name":"obj_test",
+  "name":"obj_lobby_hat",
   "overriddenProperties":[],
   "parent":{
-    "name":"Resztki",
-    "path":"folders/Resztki.yy",
+    "name":"Obiekty",
+    "path":"folders/Obiekty.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"ghost",
-    "path":"sprites/ghost/ghost.yy",
+    "name":"spr_hat",
+    "path":"sprites/spr_hat/spr_hat.yy",
   },
   "spriteMaskId":null,
   "visible":true,

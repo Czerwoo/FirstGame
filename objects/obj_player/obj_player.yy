@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_test",
-  "eventList":[],
+  "%Name":"obj_player",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_test",
+  "name":"obj_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Resztki",
-    "path":"folders/Resztki.yy",
+    "name":"Obiekty",
+    "path":"folders/Obiekty.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"ghost",
-    "path":"sprites/ghost/ghost.yy",
+    "name":"spr_clown_sheet",
+    "path":"sprites/spr_clown_sheet/spr_clown_sheet.yy",
   },
   "spriteMaskId":null,
   "visible":true,

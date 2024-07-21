@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_test",
-  "eventList":[],
+  "%Name":"obj_play_btn",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_test",
+  "name":"obj_play_btn",
   "overriddenProperties":[],
   "parent":{
-    "name":"Resztki",
-    "path":"folders/Resztki.yy",
+    "name":"Obiekty",
+    "path":"folders/Obiekty.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"ghost",
-    "path":"sprites/ghost/ghost.yy",
+    "name":"spr_play_btn",
+    "path":"sprites/spr_play_btn/spr_play_btn.yy",
   },
   "spriteMaskId":null,
   "visible":true,
