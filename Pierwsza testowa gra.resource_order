@@ -19,6 +19,7 @@
     {"name":"Zestawy kafelków","order":2,"path":"folders/Zestawy kafelków.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_camera_controller","order":4,"path":"objects/obj_camera_controller/obj_camera_controller.yy",},
     {"name":"obj_lobby_hat","order":1,"path":"objects/obj_lobby_hat/obj_lobby_hat.yy",},
     {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_sound_manager","order":3,"path":"objects/obj_sound_manager/obj_sound_manager.yy",},
