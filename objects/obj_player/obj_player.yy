@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_clown_sheet",
-    "path":"sprites/spr_clown_sheet/spr_clown_sheet.yy",
+    "name":"spr_idles",
+    "path":"sprites/spr_idles/spr_idles.yy",
   },
   "spriteMaskId":null,
   "visible":true,

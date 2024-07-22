@@ -15,6 +15,7 @@
     {"name":"Shadery","order":6,"path":"folders/Shadery.yy",},
     {"name":"Skrypty","order":5,"path":"folders/Skrypty.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"spr_clown","order":4,"path":"folders/Sprites/spr_clown.yy",},
     {"name":"Zestawy kafelków","order":2,"path":"folders/Zestawy kafelków.yy",},
   ],
   "ResourceOrderSettings":[
@@ -29,8 +30,12 @@
     {"name":"rm_menu","order":2,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"ghost","order":1,"path":"sprites/ghost/ghost.yy",},
     {"name":"spr_hat","order":3,"path":"sprites/spr_hat/spr_hat.yy",},
+    {"name":"spr_idles","order":4,"path":"sprites/spr_idles/spr_idles.yy",},
     {"name":"spr_play_btn","order":2,"path":"sprites/spr_play_btn/spr_play_btn.yy",},
     {"name":"spr_tileset","order":1,"path":"sprites/spr_tileset/spr_tileset.yy",},
+    {"name":"spr_walk_down","order":1,"path":"sprites/spr_walk_down/spr_walk_down.yy",},
+    {"name":"spr_walk_left","order":3,"path":"sprites/spr_walk_left/spr_walk_left.yy",},
+    {"name":"spr_walk_right","order":2,"path":"sprites/spr_walk_right/spr_walk_right.yy",},
     {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
   ],
 }
